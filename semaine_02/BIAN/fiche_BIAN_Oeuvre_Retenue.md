@@ -32,3 +32,4 @@ Expérience vécue	Posture du visiteur ou gestes de l'interacteur 🎥 possibili
 
 Références		hyperliens vers les sites consultés
 http://patenteux.com/wp/portfolio/resonances-2021/
+https://www.elektramontreal.ca/biennale2022
