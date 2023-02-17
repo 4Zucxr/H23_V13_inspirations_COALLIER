@@ -1,6 +1,6 @@
 # BIAN
 
-Affiche de l'exposition	
+![affiche exposition]([(https://github.com/4Zucxr/H23_V13_inspirations_COALLIER/edit/blob/semaine_02/BIAN/médias/20230217_affiche_exposition.PNG))
 
 Lieu de mise en exposition	Vous devant l'entrée de l'édifice	
 
