@@ -1,8 +1,9 @@
 # BIAN
 
-![affiche exposition]([(https://github.com/4Zucxr/H23_V13_inspirations_COALLIER/edit/blob/semaine_02/BIAN/médias/20230217_affiche_exposition.PNG))
+![affiche exposition](https://github.com/4Zucxr/H23_V13_inspirations_COALLIER/blob/main/semaine_02/BIAN/médias/20230217_affiche_exposition.png)
 
-Lieu de mise en exposition	Vous devant l'entrée de l'édifice	
+**Arsenal art contemporain**
+![lieu exposition](https://github.com/4Zucxr/H23_V13_inspirations_COALLIER/blob/main/semaine_02/BIAN/médias/20230203_lieu_exposition.png)
 
 Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)		
 
