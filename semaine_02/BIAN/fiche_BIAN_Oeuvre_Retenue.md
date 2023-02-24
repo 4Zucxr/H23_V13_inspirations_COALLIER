@@ -38,13 +38,22 @@ Résonances est une métaphore sur le temps qui défile. Au lieu d'exprimer la l
 
 ## Type d'installation
 Intéractive
-[!vue_parlante]
-(https://img.youtube.com/vi/5C32gNSZBgM?/maxresdefault.jpg)]
-(https://youtube.com/watch?v=5C32gNSZBgM?)
-Vue parlante - vidéo ou photo qui nous permet de bien comprendre le type d'installation	---
+
+[Vidéo vue parlante](https://youtube.com/watch?v=5C32gNSZBgM?)
+
 
 ## Mise en espace	
-Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)	Texte qui permet de comprendre comment l'oeuvre est mise en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-elle disposée... ?
+Vue d'ensemble de la pièce
+
+![vue_ensemble](médias/20230203_espace_complet.png) 
+
+Croquis de la mise en espace
+
+![élévation](médias/20230220_croquis_mise_espace.jpg)
+![salle](médias/20230220_croquis_mise_espace_2.jpg)
+
+L'oeuvre est placé dans dans la pièce principale, directement à gauche de l'entrée. Elle est placée à coté d'un quai de chargement et devant un faux mur qui cache une autre oeuvre. Elle occupe un espace de 10x10 pieds carrés et elle est disposée d'une manière qu'une grande partie des composantes soit caché derrière elle.
+comment l'oeuvre est mise en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-elle disposée... ?
 
 ## Composantes et techniques	
 Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des composantes et techniques utilisées (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)
