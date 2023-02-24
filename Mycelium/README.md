@@ -7,3 +7,8 @@ l'installation en cours dans les studios pour chacun des projets (photos à l'ap
 le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
 ![plantation_echo](https://user-images.githubusercontent.com/90852900/216374037-8080de26-ad2f-4eeb-83c4-d4192a348956.png)
 https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction
+
+![plantation_edria](https://github.com/F-C-A/EDRIA/blob/main/docs/preproduction/medias/plan_direction_capteur.png)
+https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction
+
+![plantation_lumasol]
