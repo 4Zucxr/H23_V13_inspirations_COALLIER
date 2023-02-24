@@ -45,7 +45,8 @@ Intéractive
 ## Mise en espace	
 Vue d'ensemble de la pièce
 
-![vue_ensemble](médias/20230203_espace_complet.png) 
+![vue_ensemble](médias/20230203_espace_complet.png)
+![vue_ensemble_2](médias/20220221_espace_piece.PNG)
 
 Croquis de la mise en espace
 
@@ -66,7 +67,7 @@ Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées d
 ![camera](médias/20230203_portail_03.png)
 ![speaker](médias/20230203_composante_speaker_02.png)
 ![composante_arriere](médias/20230203_composante_arriere_02.png)
-![composante_entier](médias/20230203_composante_ordinateur.png)
+![composante_entier](médias/20230203_composante_ordinateur_1.png)
 ![écran_del](médias/20230203_composante_ecran.png)
 
 Liste des composantes et techniques utilisées 
