@@ -27,8 +27,14 @@ Louis-Philippe Rondeau
 2021
 
 ## Description de l'oeuvre	
-Cartel + diverses vues	
-À composer ou reprendre la descritpion offerte sur le site de l'artiste ou sur le cartel en indiquant bien sa source
+Résonances est une métaphore sur le temps qui défile. Au lieu d'exprimer la linéarité du temps, cette installation intéractive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, elle représente nos actions antérieures qui resurgissent, amplifiant le présent et devenant à leur tour passé, telle une perpétuelle mise en abysme temporelle.    
+[Source](médias/20230203_cartel.png)
+
+![cartel](médias/20230203_cartel.png)
+![vue](médias/20230203_portail_complet.png)
+![oeuvre_complete](médias/20230203_espace_complet.png)
+![oeuvre_complete_2](médias/20230203_espace_01.png)
+
 
 ## Type d'installation (contemplative, immersive, interactive)	
 Vue parlante - vidéo ou photo qui nous permet de bien comprendre le type d'installation	---
