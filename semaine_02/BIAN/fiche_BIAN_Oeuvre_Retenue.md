@@ -38,8 +38,8 @@ Résonances est une métaphore sur le temps qui défile. Au lieu d'exprimer la l
 
 ## Type d'installation
 Intéractive
-[![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+[!vue_parlante]
+(https://img.youtube.com/vi/5C32gNSZBgM?/maxresdefault.jpg)]
 (https://youtube.com/watch?v=5C32gNSZBgM?)
 Vue parlante - vidéo ou photo qui nous permet de bien comprendre le type d'installation	---
 
