@@ -12,3 +12,6 @@ https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction
 https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction
 
 ![plantation_lumasol]
+
+
+![plantation_zodie](https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/preproduction/medias/o3_plantation.svg)
