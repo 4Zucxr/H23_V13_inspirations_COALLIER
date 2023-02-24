@@ -99,10 +99,16 @@ Cache-fils
 
 ![base_plancher](médias/20230203_composante_plancher_01.png)
 
-(il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs...)
 
 ## Expérience vécue
-Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci	Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment l'oeuvre réagit-elle (si interactive)? Plus personnellement, description de l'expérience que l'oeuvre vous a fait vivre.
+Posture du visiteur ou gestes de l'interacteur 
+
+![posture](médias/20230203_posture.png)
+
+[Vidéo](https://youtube.com/watch?v=5C32gNSZBgM?)
+
+Il faut se positionner dans la périphérie de la caméra, soit le contour délimiter par la base surélevé. Il n'y a pas tellement de position attendu 
+Où et comment se positionne-t-il/elle? Que faut-il faire? Comment l'oeuvre réagit-elle (si interactive)? Plus personnellement, description de l'expérience que l'oeuvre vous a fait vivre.
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 Éléments pertinents	Texte à rédiger qui présente un ou des aspects inspirants, avec justifications détaillées (pourquoi est-ce que cela vous a plus/ vous a donné des idées ?
