@@ -59,7 +59,23 @@ Disposition
 L'oeuvre est placé dans dans la pièce principale, directement à gauche de l'entrée. Elle est placée à coté d'un quai de chargement et devant un faux mur qui cache une autre oeuvre. Elle occupe un espace de 10x10 pieds carrés et elle est disposée d'une manière qu'une grande partie des composantes soit caché derrière elle.
 
 ## Composantes et techniques	
-Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des composantes et techniques utilisées (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)
+Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	
+![composante_entier](médias/20230203_portail_01.png)
+![composante_entier](médias/20230203_portail_02.png)
+![composante_entier](médias/20230203_portail_03.png)
+![composante_entier](médias/20230203_composante_speaker_02.png)
+![composante_entier](médias/20230203_composante_arriere_02.png)
+![composante_entier](médias/20230203_composante_ordinateur.png)
+
+Liste des composantes et techniques utilisées 
+* Portail en bois et acrylique
+* Affichage DEL
+* Lumière DEL blanche
+* Ordinateur
+* Caméra
+* Haut-parleurs 
+
+(ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)
 
 ## Éléments nécessaires à la mise en exposition
 Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs...)
