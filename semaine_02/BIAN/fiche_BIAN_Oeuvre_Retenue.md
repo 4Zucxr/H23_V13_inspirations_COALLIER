@@ -43,15 +43,16 @@ Intéractive
 
 
 ## Mise en espace	
-Vue d'ensemble de la pièce
+Vue d'ensemble de la pièce ([source de la photo à droite](http://patenteux.com/wp/portfolio/resonances-2021/))
 
 ![vue_ensemble](médias/20230203_espace_complet.png)
-![vue_ensemble_2](médias/20220221_espace_piece.PNG)
+![vue_ensemble_2](médias/20230221_espace_piece.png)
 
 Croquis de la mise en espace
 
 ![élévation](médias/20230220_croquis_mise_espace.jpg)
 ![salle](médias/20230220_croquis_mise_espace_2.jpg)
+
 
 Disposition
 
@@ -69,8 +70,9 @@ Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées d
 ![composante_arriere](médias/20230203_composante_arriere_02.png)
 ![composante_entier](médias/20230203_composante_ordinateur_1.png)
 ![écran_del](médias/20230203_composante_ecran.png)
+![portail_split](médoas/20230221_portail_split.png)
 
-Liste des composantes et techniques utilisées 
+Liste des composantes
 * Portail en bois et acrylique
 * Affichage DEL
 * Lumière DEL blanche
@@ -78,7 +80,11 @@ Liste des composantes et techniques utilisées
 * Caméra
 * Haut-parleurs 
 
-(ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)
+Techniques
+* Écho visuel
+* Portail diviser en plusieurs parties
+* Écrans diviser en plusieurs panneaux
+* Base en bois ou plastique en plusieurs parties
 
 ## Éléments nécessaires à la mise en exposition
 Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs...)
