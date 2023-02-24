@@ -70,7 +70,7 @@ Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées d
 ![composante_arriere](médias/20230203_composante_arriere_02.png)
 ![composante_entier](médias/20230203_composante_ordinateur_1.png)
 ![écran_del](médias/20230203_composante_ecran.png)
-![portail_split](médoas/20230221_portail_split.png)
+![portail_split](médias/20230221_portail_split.png)
 
 Liste des composantes
 * Portail en bois et acrylique
@@ -87,7 +87,19 @@ Techniques
 * Base en bois ou plastique en plusieurs parties
 
 ## Éléments nécessaires à la mise en exposition
-Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs...)
+Piliers pour soutenir les écrans
+
+![pillier](médias/20230203_composante_pillier.png)
+
+Cache-fils
+
+![cache_fils_2](médias/20230203_composante_cables.png)
+
+"Sous-verres" pour que les écrans ne touches pas le plancher
+
+![base_plancher](médias/20230203_composante_plancher_01.png)
+
+(il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs...)
 
 ## Expérience vécue
 Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci	Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment l'oeuvre réagit-elle (si interactive)? Plus personnellement, description de l'expérience que l'oeuvre vous a fait vivre.
