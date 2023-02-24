@@ -110,10 +110,16 @@ Posture du visiteur ou gestes de l'interacteur
 Il faut se positionner dans la périphérie de la caméra, soit le contour délimiter par la base surélevé. Il n'y a pas tellement de position attendu des intéracteurs, donc on peut faire n'importe quoi et  il y aura un résultat sur les écrans. L'oeuvre réagit en étirant une photo de l'inétracteur et en la fesant bouger comme une vague, ou une bande sonore. Personnellement, l'oeuvre m'a fait vivre de l'émerveillement et du questionnement, sur comment elle a pu modifier mon corps et comment elle l'a fait instantanément.
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
-Ce qui m'a plu le plus est le thème de l'oeuvre: de montrer que les humains sont une catastrophes et s'autodétruisent en ayant une important préoccupation concernant leur apparence physique. L'artiste sait que beaucoup de gens ont un problème de dismorphie et son oeuvre en a pour thême mais, d'une façon où on peu en admirer ou rigoler. 
+Ce qui m'a plu le plus est le thème de l'oeuvre, de montrer que les humains sont une catastrophes et s'autodétruisent en ayant une important préoccupation concernant leur apparence physique. L'artiste sait que beaucoup de gens ont un problème de dismorphie et son oeuvre en a pour thême mais, d'une façon où on peu en admirer ou rigoler. L'oeuvre nous permait de rire de notre apparence, sans réellement s'en préoccuper.
+Si j'aurais à faire un projet intéractif dans le futur, je le ferais sur le même thème.
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Éléments pertinents	Texte à rédiger qui présente un ou des aspects que vous ne retiendriez pas ou feriez autrement, avec justifications détaillées (pourquoi? comment?)
+
+![shape_portail](médias/20230203_portail_complet.png)
+
+Un aspect que j'aurais fait autrement est la forme du portail. Je trouve que sa haute forme triangulaire 'gaspille' beaucoup d'espaces non-utilisé. Le portail est environ 10 pieds de hauteur (qui est le double des écrans), et il a une largeur de 5 pieds qui ne peut pas être entièrement utilisé à cause de la courbe.
+Il aurait été mieux que Louis-Philippe aie choisi une forme comme un cercle, un rectangle, ou même un parallélograme. Avec une forme plus petite, il aurait aussi plus de faciliter à la transporter.
+
 
 ## Références		hyperliens vers les sites consultés
 http://patenteux.com/wp/portfolio/resonances-2021/
