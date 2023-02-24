@@ -123,4 +123,5 @@ Il aurait été mieux que Louis-Philippe aie choisi une forme comme un cercle, u
 
 ## Références		hyperliens vers les sites consultés
 http://patenteux.com/wp/portfolio/resonances-2021/
+
 https://www.elektramontreal.ca/biennale2022
