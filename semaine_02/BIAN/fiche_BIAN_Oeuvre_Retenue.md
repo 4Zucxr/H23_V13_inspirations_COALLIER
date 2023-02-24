@@ -37,6 +37,8 @@ Résonances est une métaphore sur le temps qui défile. Au lieu d'exprimer la l
 
 
 ## Type d'installation (contemplative, immersive, interactive)	
+Intéractive
+https://youtube.com/shorts/5C32gNSZBgM?feature=share
 Vue parlante - vidéo ou photo qui nous permet de bien comprendre le type d'installation	---
 
 ## Mise en espace	
