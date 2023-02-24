@@ -105,10 +105,9 @@ Posture du visiteur ou gestes de l'interacteur
 
 ![posture](médias/20230203_posture.png)
 
-[Vidéo](https://youtube.com/watch?v=5C32gNSZBgM?)
+[Vidéo sur la posture](https://youtube.com/watch?v=5C32gNSZBgM?)
 
-Il faut se positionner dans la périphérie de la caméra, soit le contour délimiter par la base surélevé. Il n'y a pas tellement de position attendu 
-Où et comment se positionne-t-il/elle? Que faut-il faire? Comment l'oeuvre réagit-elle (si interactive)? Plus personnellement, description de l'expérience que l'oeuvre vous a fait vivre.
+Il faut se positionner dans la périphérie de la caméra, soit le contour délimiter par la base surélevé. Il n'y a pas tellement de position attendu des intéracteurs, donc on peut faire n'importe quoi et  il y aura un résultat sur les écrans. L'oeuvre réagit en étirant une photo de l'inétracteur et en la fesant bouger comme une vague, ou une bande sonore. Personnellement, l'oeuvre m'a fait vivre de l'émerveillement et du questionnement, sur comment elle a pu modifier mon corps et comment elle l'a fait instantanément.
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 Éléments pertinents	Texte à rédiger qui présente un ou des aspects inspirants, avec justifications détaillées (pourquoi est-ce que cela vous a plus/ vous a donné des idées ?
