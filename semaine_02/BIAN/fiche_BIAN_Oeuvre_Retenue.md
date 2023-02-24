@@ -60,12 +60,14 @@ L'oeuvre est placé dans dans la pièce principale, directement à gauche de l'e
 
 ## Composantes et techniques	
 Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	
-![composante_entier](médias/20230203_portail_01.png)
-![composante_entier](médias/20230203_portail_02.png)
-![composante_entier](médias/20230203_portail_03.png)
-![composante_entier](médias/20230203_composante_speaker_02.png)
-![composante_entier](médias/20230203_composante_arriere_02.png)
+
+![bois](médias/20230203_portail_01.png)
+![acrylique](médias/20230203_portail_02.png)
+![camera](médias/20230203_portail_03.png)
+![speaker](médias/20230203_composante_speaker_02.png)
+![composante_arriere](médias/20230203_composante_arriere_02.png)
 ![composante_entier](médias/20230203_composante_ordinateur.png)
+![écran_del](médias/20230203_composante_ecran.png)
 
 Liste des composantes et techniques utilisées 
 * Portail en bois et acrylique
