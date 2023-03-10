@@ -9,11 +9,12 @@ Entre-Fungus; L'oeuvre est parsemée de champignons lumineux représentant la fi
 
 Luma Sol; L'oeuvre porte sur l'urgence climatique et urge les humains de rester en contact avec.*
 
-Nexium; ??
+Nexium; *
 
 Zodie-Gal; no idea*
 
 ## L'installation en cours dans les studios pour chacun des projets (photos à l'appui)
+video needs to be put on youtube
 
 Échomarine; 
 
