@@ -22,7 +22,7 @@ Entre-Fungus;
 
 Luma Sol; 
 
-Nexium; 
+Nexum; 
 
 Zodie-Gal; n
 
@@ -31,11 +31,13 @@ Zodie-Gal; n
 https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction
 
 ![plantation_entre-fungus](https://github.com/F-C-A/EDRIA/blob/main/docs/preproduction/medias/plan_direction_capteur.png)
-
 https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction
 
 ![plantation_lumasol](https://user-images.githubusercontent.com/78884924/216162243-62f71502-2c40-4cc7-b42d-831b07b1f35d.png)
 https://github.com/Kawabongaaa/LumaSol/tree/main/docs/preproduction
+
+![plantation_nexum](https://github.com/Boucle-RDDL/Nexum/blob/main/docs/preproduction/medias/Passe_lumiere.png)
+https://github.com/Boucle-RDDL/Nexum/
 
 ![plantation_zodie](https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/preproduction/medias/o3_plantation.svg)
 https://github.com/tim-montmorency/66B-modele_de_projet/tree/main/docs/preproduction
