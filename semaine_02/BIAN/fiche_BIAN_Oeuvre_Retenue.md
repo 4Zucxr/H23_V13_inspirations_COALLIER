@@ -39,6 +39,8 @@ Résonances est une métaphore sur le temps qui défile. Au lieu d'exprimer la l
 ## Type d'installation
 Intéractive
 
+[![vidéo](http://img.youtube.com/vi/5C32gNSZBgM?/0.jpg)](http://www.youtube.com/watch?v=5C32gNSZBgM?)
+
 [Vidéo vue parlante](https://youtube.com/watch?v=5C32gNSZBgM?)
 
 
