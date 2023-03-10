@@ -76,5 +76,10 @@ https://github.com/tim-montmorency/66B-modele_de_projet/tree/main/docs/preproduc
 ## Une technique utilisé dans un projets dont je ne connais pas:
 
 ## Projets en rang de préférence:
+* EDRIA
+*
+*
+*
+*
 
-## Ce que je vais ressentir en expérimentant kes projets:
+## Ce que je vais ressentir en expérimentant les projets:
