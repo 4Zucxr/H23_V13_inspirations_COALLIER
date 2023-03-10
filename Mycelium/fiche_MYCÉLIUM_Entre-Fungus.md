@@ -115,14 +115,15 @@ Posture du visiteur ou gestes de l'interacteur
 
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
-**
+Ce qui m'a plu sont les différentes animations qui se passent dépendant d'oû on est placé plutot qu'en avoir seulement une qui se passe tout le temps.
+
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
 **
 
 ## Références		hyperliens vers les sites consultés
-[http://patenteux.com/wp/portfolio/resonances-2021/](https://github.com/F-C-A/EDRIA)
+[https://github.com/F-C-A/EDRIA](https://github.com/F-C-A/EDRIA)
 
 
 
