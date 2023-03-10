@@ -50,7 +50,7 @@ Nexum;
 
 [![Installation_nexum](https://i9.ytimg.com/vi/pxkVXRrlY-Q/mq2.jpg?sqp=CKijraAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgKyh_MA8=&rs=AOn4CLCQoBSb3P3hKo6F3cK75_iVEgi2MQ)](http://www.youtube.com/watch?v=pxkVXRrlY-Q)
 
-Zodie-Gal; n
+Zodie-Gal; endroit obscure, aucune pic je pense
 
 ## Le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
 ![plantation_echo](https://user-images.githubusercontent.com/90852900/216374037-8080de26-ad2f-4eeb-83c4-d4192a348956.png)
@@ -69,6 +69,9 @@ https://github.com/Boucle-RDDL/Nexum/
 https://github.com/tim-montmorency/66B-modele_de_projet/tree/main/docs/preproduction
 
 ## 3 cours du programme nécessaire pour créer les projets:
+* Objets interactifs
+* Web 5
+* Traitement audiovisuel
 
 ## Une technique utilisé dans un projets dont je ne connais pas:
 
