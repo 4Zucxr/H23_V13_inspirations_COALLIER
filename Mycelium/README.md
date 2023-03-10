@@ -1,7 +1,8 @@
 ## Les projets:
 Échomarine, Entre-Fungus, Luma Sol, Nexium et Zodie-Gal
 
-## Le lien de chacun avec le thème Mycélium: (Le mycélium (la partie végétative et souterraine des champignons) joue les rôles de décomposeur de la matière organique et d'absorbeur de nutriments et d'eau.)
+## Le lien de chacun avec le thème Mycélium:
+Le mycélium est la partie végétative et souterraine des champignons et joue les rôles de décomposeur de la matière organique et d'absorbeur de nutriments et d'eau.
 
 Échomarine; L'oeuvre porte sur les fonds marins et sa population en voie d'extinction, vise à conscientiser.*
 
