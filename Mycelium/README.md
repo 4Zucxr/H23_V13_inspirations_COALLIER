@@ -25,19 +25,19 @@ Zodie-Gal;
 
 ## L'installation en cours dans les studios pour chacun des projets 
 
-Échomarine (vidéo); 
+**Échomarine (vidéo)**; 
 
 [![Installation_Échomarine](https://i9.ytimg.com/vi_webp/pxkVXRrlY-Q/mq2.webp?sqp=CLCQ0aAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgKyh_MA8=&rs=AOn4CLB2xKzolFNDtYy9JEgbctQ496_5tg)](http://www.youtube.com/watch?v=J3RE-UOXL6w)
 
 
-EDRIA (photos);  
+**EDRIA (photos)**;  
 
 ![Installation_EDRIA1](médias/20230224_installation.png)
 ![Installation_EDRIA2](médias/20230224_poteau_central.png)
 
 Crédit: Martin Soltan
 
-Luma Sol (vidéo et photoss); 
+**Luma Sol (vidéo et photos)**; 
 
 [![Installation_Luma-sol_vid](https://i9.ytimg.com/vi/Ot-g9M8m8JM/mq2.jpg?sqp=CLCQ0aAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBYKEswDw==&rs=AOn4CLC_FUFDGJ54E1R2e9AQOGT6vSrpKA)](http://www.youtube.com/watch?v=Ot-g9M8m8JM)
 
@@ -45,11 +45,11 @@ Luma Sol (vidéo et photoss);
 ![Installation_Luma-sol_img2](médias/20230224_installation_luma-sol.png)
 
 
-Nexum; 
+**Nexum (vidéo)**; 
 
 [![Installation_nexum](https://i9.ytimg.com/vi_webp/J3RE-UOXL6w/mq2.webp?sqp=CLCQ0aAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gXShdMA8=&rs=AOn4CLD-cWn2qGcfbbhZ3spZLjqrtQHh_Q)](http://www.youtube.com/watch?v=pxkVXRrlY-Q)
 
-Zodie-Gal; 
+**Zodie-Gal**; 
 Pas d'installation en cours.
 
 ## Le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
@@ -111,12 +111,17 @@ Je la trouve trop ordinaire. Lorsque je l'ai vu en studio, c'etait une simple gu
 ## Ce que je vais ressentir en expérimentant les projets: (avec justifications)
 
 * EDRIA
+
 Je vais ressentir de la curiosité. Je vais surement essayer de faire jouer toute les animations et de voir toutes les variantes de couleurs/musiques.
 * Luma-sol
+
 Je vais ressentir de l'essouflement. Comme une grande majorité de personnes qui voit un vélo dans une oeuvre intéractive, je vais essayer de pédaler le plus vite possible pour voir si les lumières et la musique sera affecté.
 * Zodie-Gal
+
 ///
 * Échomarine
+
 ///
 * Nexum
+
 Comme Luma-sol, je vais ressentir de l'essouflement. Je vais surement essayer de courrir le trajet le plus vite possible pour voir si les lumières et la musique sera affecté.
