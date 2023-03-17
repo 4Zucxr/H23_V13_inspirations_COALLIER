@@ -94,15 +94,19 @@ Les sensors Hyvrid utilise PIR et Microwave. Il est utilisé comme sécurité po
 
 ## Projets en rang de préférence: (avec justification)
 * EDRIA
-///
+Selon moi, EDRIA semble être le projet le plus pensé entre eux. Elle est la plus grosse installation avec le plus d'intéractivité.
+
 * Luma-sol
-///
+Luma-Sol était un sérieux concurrent pour la première place, mais j'ai du le mettre en deuxiême place car je pense qu'elle va durer moins longtemps que EDRIA. Luma-Sol a plus de chance d'un bris que les autres, car les pièces mécanique du vélo peut se briser très facilement si on n'y fait pas attention. Aussi, je pense qu'il y a une bonne chance que le vélo se fasse voler puisqu'il ne pese pas très lourd, faisant en sorte que l'oeuvre ne pourra plus fonctionner.
+
 * Zodie-Gal
-///
+Zodie-Gal a de très bonnes chance d'être quelque chose de super. J'aime bien leur concept et les illustrations du jeux, mais il n'y avait rien de prêt lors de visite au studio. Je ne sais pas comment le jeux va être, alors je le garde comme 3e choix, entre bien et mauvais.
+
 * Échomarine
 ///
+
 * Nexum
-///
+Je la trouve trop ordinaire. Lorsque je l'ai vu en studio, c'etait une simple guirlandes sur le plancher avec des lumières qui changeait de direction.
 
 ## Ce que je vais ressentir en expérimentant les projets: (avec justifications)
 
@@ -115,4 +119,4 @@ Je vais ressentir de l'essouflement. Comme une grande majorité de personnes qui
 * Échomarine
 ///
 * Nexum
-///
+Comme Luma-sol, je vais ressentir de l'essouflement. Je vais surement essayer de courrir le trajet le plus vite possible pour voir si les lumières et la musique sera affecté.
