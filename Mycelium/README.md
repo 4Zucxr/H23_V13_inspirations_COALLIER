@@ -23,7 +23,7 @@ Nexum;
 Zodie-Gal; 
 * Aucune idée
 
-## L'installation en cours dans les studios pour chacun des projets (photos à l'appui)
+## L'installation en cours dans les studios pour chacun des projets 
 
 Échomarine (vidéo); 
 
@@ -103,10 +103,10 @@ Luma-Sol était un sérieux concurrent pour la première place, mais j'ai du le 
 Zodie-Gal a de très bonnes chance d'être quelque chose de super. J'aime bien leur concept et les illustrations du jeux, mais il n'y avait rien de prêt lors de visite au studio. Je ne sais pas comment le jeux va être, alors je le garde comme 3e choix, entre bien et mauvais.
 
 * Échomarine
-///
+Cette oeuvre me semble trop comme une oeuvre de musée, qu'on regarde juste car on est déja au musée. Je ne trouve pas que c'est quelque chose que je me déplacerais pour aller voir spécifiquement.
 
 * Nexum
-Je la trouve trop ordinaire. Lorsque je l'ai vu en studio, c'etait une simple guirlandes sur le plancher avec des lumières qui changeait de direction.
+Je la trouve trop ordinaire. Lorsque je l'ai vu en studio, c'etait une simple guirlandes sur le plancher avec des lumières qui changeait de direction. Je trouve que c'est une version "cheap" de EDRIA et Luma-Sol
 
 ## Ce que je vais ressentir en expérimentant les projets: (avec justifications)
 
