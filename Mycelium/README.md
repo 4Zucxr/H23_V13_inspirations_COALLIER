@@ -9,19 +9,19 @@
 Le mycélium est la partie végétative et souterraine des champignons et joue les rôles de décomposeur de la matière organique et d'absorbeur de nutriments et d'eau.
 
 Échomarine
-* L'oeuvre porte sur les fonds marins et sa population en voie d'extinction, vise à conscientiser.*
+* L'oeuvre porte sur les fonds marins et sa population en voie d'extinction. Le lien avec Mycélium serait la végétation marine.
 
 EDRIA
 * L'oeuvre est parsemée de champignons lumineux représentant la fin de la boucle de l'industrialisation, puisque les champignons sont la dernière étape du cycle de la vie. 
 
 Luma Sol 
-* L'oeuvre porte sur l'urgence climatique et urge les humains de rester en contact avec.*
+* L'oeuvre veut démontrer l'importance pour les humains de demeurer en contact avec la nature. Le lien qu'on peut faire serait le cycle que Mycélium fait (décomposer l'organique et absorber des nutriments de la nature).
 
-Nexium; 
-* *
+Nexum; 
+* L'oeuvre combine l'humain et la nature comme le Mycélium fait (décompose l'organique et absorbe des nutriments de la nature)
 
 Zodie-Gal; 
-* no idea*
+* Aucune idée
 
 ## L'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 
@@ -74,12 +74,18 @@ https://github.com/tim-montmorency/66B-modele_de_projet/tree/main/docs/preproduc
 * Traitement audiovisuel
 
 ## Une technique utilisé dans un projets dont je ne connais pas:
+///
 
-## Projets en rang de préférence:
+## Projets en rang de préférence: (avec justification)
 * EDRIA
-*
-*
-*
-*
-
-## Ce que je vais ressentir en expérimentant les projets:
+///
+* Luma-sol
+///
+* Zodie-Gal
+///
+* Échomarine
+///
+* Nexum
+///
+## Ce que je vais ressentir en expérimentant les projets: (avec justifications)
+///
