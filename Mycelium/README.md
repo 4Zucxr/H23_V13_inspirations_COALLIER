@@ -78,11 +78,19 @@ Pas d'installation en cours.
 * Web 5
 * Traitement audiovisuel
 
-## Unu composante technique utilisé dans un projets dont je ne connais pas:
-* Les sensors.
+## Une composante technique utilisé dans un projets dont je ne connais pas:
+**Les sensors.**
+
 Il y a différents types de sensors: proximité, humidité, chimique, lumière et mouvement.
-Celui qui sera le plus utilisé dans les projets 
-[Site informatif sur les sensors](https://www.zmescience.com/other/feature-post/what-are-sensors-how-they-work-and-why-theyre-everywhere/)
+Ceux qui seront le plus utilisé dans les projets s'agit de sensors de mouvement. 
+Les 3 types de sensors de mouvement les plus utilisé sont: Passive Infrared (PIR), Microwave et Hybrid.
+Les sensors PIR ont un sensor pyroelectrique qui détecte le niveau de radiation infrarouge (chaleur). Le corp humain emet beaucoup de chaleur, alors le sensor déclenche lorsque sa chaleur est détecté.
+Les sensors Microwave envoie des ondes de radiation micro-ondes pour détecter des mouvement, comme les laser de la police.  Il envoie une fréquence radio élevée et mesure la réflexion d’un objet en détectant un décalage de fréquence. S’il détecte un changement de fréquence, le détecteur de mouvement est activé.
+Les sensors Hyvrid utilise PIR et Microwave. Il est utilisé comme sécurité pour empecher l'un des sensors de s'activer lorsqu'il ne devrait pas (vent, chaleur, etc).
+
+[Site informatif sur les sensors de mouvement](https://www.arrow.com/en/research-and-events/articles/how-motion-sensors-work)
+
+[Pyroélectricité](https://en.wikipedia.org/wiki/Pyroelectricity)
 
 ## Projets en rang de préférence: (avec justification)
 * EDRIA
@@ -95,5 +103,16 @@ Celui qui sera le plus utilisé dans les projets
 ///
 * Nexum
 ///
+
 ## Ce que je vais ressentir en expérimentant les projets: (avec justifications)
+
+* EDRIA
+Je vais ressentir de la curiosité. Je vais surement essayer de faire jouer toute les animations et de voir toutes les variantes de couleurs/musiques.
+* Luma-sol
+Je vais ressentir de l'essouflement. Comme une grande majorité de personnes qui voit un vélo dans une oeuvre intéractive, je vais essayer de pédaler le plus vite possible pour voir si les lumières et la musique sera affecté.
+* Zodie-Gal
+///
+* Échomarine
+///
+* Nexum
 ///
