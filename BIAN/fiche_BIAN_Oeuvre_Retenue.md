@@ -1,12 +1,12 @@
 # BIAN
 
-![affiche exposition](médias/20230217_affiche_exposition.png)
+![affiche exposition](media/20230217_affiche_exposition.png)
 [Elektra](https://www.elektramontreal.ca/biennale2022)
 
 ## Lieu de mise en exposition
 Arsenal art contemporain
 
-![lieu exposition](médias/20230203_lieu_exposition.PNG)
+![lieu exposition](media/20230203_lieu_exposition.PNG)
 
 ## Type d'exposition 
 Temporaire, intérieure.	
@@ -17,8 +17,8 @@ Temporaire, intérieure.
 ## Titre de l'oeuvre
 RESONANCES
 
-![oeuvre_complete](médias/20230203_espace_complet.png)
-![oeuvre_complete_2](médias/20230203_espace_01.png)
+![oeuvre_complete](media/20230203_espace_complet.png)
+![oeuvre_complete_2](media/20230203_espace_01.png)
 
 ## Nom de l'artiste
 Louis-Philippe Rondeau
@@ -28,12 +28,12 @@ Louis-Philippe Rondeau
 
 ## Description de l'oeuvre	
 Résonances est une métaphore sur le temps qui défile. Au lieu d'exprimer la linéarité du temps, cette installation intéractive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, elle représente nos actions antérieures qui resurgissent, amplifiant le présent et devenant à leur tour passé, telle une perpétuelle mise en abysme temporelle.    
-[Source](médias/20230203_cartel.png)
+[Source](media/20230203_cartel.png)
 
-![cartel](médias/20230203_cartel.png)
-![vue](médias/20230203_portail_complet.png)
-![oeuvre_complete](médias/20230203_espace_complet.png)
-![oeuvre_complete_2](médias/20230203_espace_01.png)
+![cartel](media/20230203_cartel.png)
+![vue](media/20230203_portail_complet.png)
+![oeuvre_complete](media/20230203_espace_complet.png)
+![oeuvre_complete_2](media/20230203_espace_01.png)
 
 
 ## Type d'installation
@@ -47,32 +47,32 @@ Intéractive
 ## Mise en espace	
 Vue d'ensemble de la pièce ([source de la photo à droite](http://patenteux.com/wp/portfolio/resonances-2021/))
 
-![vue_ensemble](médias/20230203_espace_complet.png)
-![vue_ensemble_2](médias/20230221_espace_piece.png)
+![vue_ensemble](media/20230203_espace_complet.png)
+![vue_ensemble_2](media/20230221_espace_piece.png)
 
 Croquis de la mise en espace
 
-![élévation](médias/20230220_croquis_mise_espace.jpg)
-![salle](médias/20230220_croquis_mise_espace_2.jpg)
+![élévation](media/20230220_croquis_mise_espace.jpg)
+![salle](media/20230220_croquis_mise_espace_2.jpg)
 
 
 Disposition
 
-![espace_caché](médias/20230203_composante_pillier.png)
+![espace_caché](media/20230203_composante_pillier.png)
 
 L'oeuvre est placé dans dans la pièce principale, directement à gauche de l'entrée. Elle est placée à coté d'un quai de chargement et devant un faux mur qui cache une autre oeuvre. Elle occupe un espace de 10x10 pieds carrés et elle est disposée d'une manière qu'une grande partie des composantes soit caché derrière elle.
 
 ## Composantes et techniques	
 Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	
 
-![bois](médias/20230203_portail_01.png)
-![acrylique](médias/20230203_portail_02.png)
-![camera](médias/20230203_portail_03.png)
-![speaker](médias/20230203_composante_speaker_02.png)
-![composante_arriere](médias/20230203_composante_arriere_02.png)
-![composante_entier](médias/20230203_composante_ordinateur_1.png)
-![écran_del](médias/20230203_composante_ecran.png)
-![portail_split](médias/20230221_portail_split.png)
+![bois](media/20230203_portail_01.png)
+![acrylique](media/20230203_portail_02.png)
+![camera](media/20230203_portail_03.png)
+![speaker](media/20230203_composante_speaker_02.png)
+![composante_arriere](media/20230203_composante_arriere_02.png)
+![composante_entier](media/20230203_composante_ordinateur_1.png)
+![écran_del](media/20230203_composante_ecran.png)
+![portail_split](media/20230221_portail_split.png)
 
 Liste des composantes
 * Portail en bois et acrylique
@@ -91,21 +91,21 @@ Techniques
 ## Éléments nécessaires à la mise en exposition
 Piliers pour soutenir les écrans
 
-![pillier](médias/20230203_composante_pillier.png)
+![pillier](media/20230203_composante_pillier.png)
 
 Cache-fils
 
-![cache_fils_2](médias/20230203_composante_cables.png)
+![cache_fils_2](media/20230203_composante_cables.png)
 
 "Sous-verres" pour que les écrans ne touches pas le plancher
 
-![base_plancher](médias/20230203_composante_plancher_01.png)
+![base_plancher](media/20230203_composante_plancher_01.png)
 
 
 ## Expérience vécue
 Posture du visiteur ou gestes de l'interacteur 
 
-![posture](médias/20230203_posture.png)
+![posture](media/20230203_posture.png)
 
 [Vidéo sur la posture](https://youtube.com/watch?v=5C32gNSZBgM?)
 
@@ -117,7 +117,7 @@ Si j'aurais à faire un projet intéractif dans le futur, je le ferais sur le m�
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-![shape_portail](médias/20230203_portail_complet.png)
+![shape_portail](media/20230203_portail_complet.png)
 
 Un aspect que j'aurais fait autrement est la forme du portail. Je trouve que sa haute forme triangulaire 'gaspille' beaucoup d'espaces non-utilisé. Le portail est environ 10 pieds de hauteur (qui est le double des écrans), et il a une largeur de 5 pieds qui ne peut pas être entièrement utilisé à cause de la courbe.
 Il aurait été mieux que Louis-Philippe aie choisi une forme comme un cercle, un rectangle, ou même un parallélograme. Avec une forme plus petite, il aurait aussi plus de faciliter à la transporter.
