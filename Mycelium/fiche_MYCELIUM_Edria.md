@@ -36,6 +36,7 @@ Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnu
 
 [Cartel de l'oeuvre](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
+![semi-cartel](media/20230324_panneau_publicitaire.jpeg)
 ![vue_diverse_01](media/20230322_vue_illumine_01.jpeg)
 ![vue_diverse_02](media/20230322_vue_illumine_02.jpeg)
 
