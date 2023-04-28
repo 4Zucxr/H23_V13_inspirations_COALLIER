@@ -34,7 +34,7 @@ Edria
 ## Description de l'oeuvre	
 Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : EDRIA. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser... 
 
-[Cartel de l'oeuvre](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
+[Source de la description](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
 ![semi-cartel](media/20230324_panneau_publicitaire.jpeg)
 ![vue_diverse_01](media/20230322_vue_illumine_01.jpeg)
@@ -43,7 +43,7 @@ Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnu
 ## Type d'installation
 Intéractive
 
-[![Vue parlante](https://www.youtube.com/shorts/6Vedvg7-ClQ)
+[![Vue parlante](media/20230322_vignette_youtube.png)](https://www.youtube.com/shorts/6Vedvg7-ClQ)
 
 
 ## Mise en espace	
