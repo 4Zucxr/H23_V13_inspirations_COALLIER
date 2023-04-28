@@ -43,7 +43,7 @@ Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnu
 ## Type d'installation
 Intéractive
 
-[Vidéo vue parlante]
+[![Vue parlante](https://www.youtube.com/shorts/6Vedvg7-ClQ)
 
 
 ## Mise en espace	
