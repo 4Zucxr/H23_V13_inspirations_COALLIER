@@ -16,7 +16,7 @@ Temporaire et extérieur
 ## Titre de l'oeuvre
 Edria
 
-<img src="media/20230317_oeuvre_complete.jpeg" alt="Oeuvre Complète" width="500">
+<img src="media/20230317_oeuvre_complete.jpeg" alt="Oeuvre Complète" width="600">
 
 
 ## Noms des artistes
