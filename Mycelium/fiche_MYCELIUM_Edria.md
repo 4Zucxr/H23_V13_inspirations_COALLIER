@@ -48,20 +48,19 @@ Vidéo:
 [![Vue parlante](media/20230322_vignette_youtube.png)](https://www.youtube.com/shorts/6Vedvg7-ClQ)
 
 
+## Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
+Vue parlante - vidéo ou photo qui nous permet de bien comprendre la fonction du dispositif multimédia
+
 ## Mise en espace	
 Vue d'ensemble de la pièce 
 
-![vue_ensemble]
-![vue_ensemble_2]
+[Source de la photo](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
 Croquis de la mise en espace
 
 ![salle](
+Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?
 
-
-Disposition
-
-I don't know yet
 
 ## Composantes et techniques	
 Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	
