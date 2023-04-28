@@ -1,6 +1,6 @@
 # Mycélium
 
-![affiche exposition](médias/20230224_Mycélium.PNG)
+![affiche exposition](media/20230224_Mycélium.PNG)
 
 ## Lieu de mise en exposition
 Collège Montmorency
@@ -11,13 +11,13 @@ Collège Montmorency
 Temporaire et extérieur
 
 ## Date de votre visite		
-24 Février 2023
+24 Février 2023 - 24 Mars 2023
 
 ## Titre de l'oeuvre
-Entre-Fungus
+Edria
 
-![oeuvre_complete]
-![oeuvre_complete_2]
+![oeuvre_complete](media/20230317_oeuvre_complete.jpeg)
+
 
 ## Noms des artistes
 * Elwin Durand
