@@ -44,6 +44,7 @@ Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnu
 Intéractive
 
 Vidéo:
+
 [![Vue parlante](media/20230322_vignette_youtube.png)](https://www.youtube.com/shorts/6Vedvg7-ClQ)
 
 
