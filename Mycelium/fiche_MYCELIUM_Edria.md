@@ -54,6 +54,7 @@ Vue parlante - vidéo ou photo qui nous permet de bien comprendre la fonction du
 ## Mise en espace	
 Vue d'ensemble de la pièce 
 
+![vue_ensemble](media/20230428_vue_ensemble_piece.png)
 [Source de la photo](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
 Dimensions 
