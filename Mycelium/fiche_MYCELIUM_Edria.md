@@ -214,7 +214,6 @@ Caméra de sécurité
 
 
 ## Expérience vécue
-Posture du visiteur ou gestes de l'interacteur 
 
 Le visiteur pouvait avoir n'importe quelle posture qu'il voulait en autant qu'une partie de son corps fut détecté par un senseur.
 
@@ -225,12 +224,12 @@ Vidéo:
 
 ## ❤️ Ce que j'ai aimé et m'a inspiré
 Ce qui m'a plu sont les différentes animations qui se passent dépendant d'oû on est placé plutôt qu'en avoir seulement une qui se passe tout le temps.
-J'ai aussi aimé la disposition des poteaux, faisant en sorte qu'ils ne sont pas encombrant au élèves qui vont à la terrace.
+J'ai aussi aimé la disposition des poteaux, faisant en sorte qu'ils ne sont pas encombrant au élèves qui vont à la terrace. Ce qui m'a inspiré est comment elle fondait avec l'environnement: les gens qui étaient alentour ni portait peu d'attention et continuait à relaxer comme si rien n'était.
 
 
 
 ## 🤔 Ce que je n'ai pas aimé et que je ne garderais pas
-Je n'ai pas aimé l'emplacement de l'oeuvre, car elle a été placé à un endroit très fréquenté, faisant en sorte qu'on ne pouvait pas expérimenter l'oeuvre dans son entièreté puisqu'une partie était toujours enclenchée par une personne qui bougeait.
+Je n'ai pas aimé l'emplacement de l'oeuvre, car elle a été placé à un endroit très fréquenté, faisant en sorte qu'on ne pouvait pas expérimenter l'oeuvre dans son entièreté puisqu'une partie était toujours enclenchée par une personne qui bougeait. J'aurais choisi un endroit moins acchalandé, comme le parc en arrière du Collège Montmorency.
 
 ## Références		hyperliens vers les sites consultés
 [EDRIA](https://github.com/F-C-A/EDRIA)
