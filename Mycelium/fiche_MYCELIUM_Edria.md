@@ -182,7 +182,7 @@ Les bases des poteaux peuvent facilement se dé-viser pour faciliter le transpor
 
 Bancs
 
-![bancs](media/20230428_banc.png)
+![bancs](media/20230428_bancs.png)
 
 [Source de l'image](https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction#mat%C3%A9riel-de-sc%C3%A9nographie-requis)
 
@@ -210,19 +210,20 @@ Caméra de sécurité
 ## Expérience vécue
 Posture du visiteur ou gestes de l'interacteur 
 
-![posture]
-
-[Vidéo sur la posture]
+Le visiteur pouvait avoir n'importe quelle posture qu'il voulait en autant qu'une partie de son corps fut détecté par un senseur.
 
 
-
-## ❤️ Ce qui vous a plu, vous a donné des idées
-Ce qui m'a plu sont les différentes animations qui se passent dépendant d'oû on est placé plutot qu'en avoir seulement une qui se passe tout le temps.
+[![Expérience](media/20230322_vignette_youtube.png)](https://www.youtube.com/shorts/6Vedvg7-ClQ)
 
 
-## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+## ❤️ Ce que j'ai aimé et m'a inspiré
+Ce qui m'a plu sont les différentes animations qui se passent dépendant d'oû on est placé plutôt qu'en avoir seulement une qui se passe tout le temps.
+J'ai aussi aimé la disposition des poteaux, faisant en sorte qu'ils ne sont pas encombrant au élèves qui vont à la terrace.
 
-**
+
+
+## 🤔 Ce que je n'ai pas aimé et que je ne garderais pas
+Je n'ai pas aimé l'emplacement de l'oeuvre, car elle a été placé à un endroit très fréquenté, faisant en sorte qu'on ne pouvait pas expérimenter l'oeuvre dans son entièreté puisqu'une partie était toujours enclenchée par une personne qui bougeait.
 
 ## Références		hyperliens vers les sites consultés
 [https://github.com/F-C-A/EDRIA](https://github.com/F-C-A/EDRIA)
