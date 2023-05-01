@@ -50,7 +50,9 @@ Vidéo:
 
 ## Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
 Scénographique. Son but est de nous émerveiller avec la natures, avec l'aide de l'électronique
-Vue parlante - vidéo ou photo qui nous permet de bien comprendre la fonction du dispositif multimédia
+
+Vidéo:
+
 [![vue_parlante_fonction](media/20230322_vignette_youtube.png)](https://www.youtube.com/shorts/5gl5WA0eZxY)
 
 
