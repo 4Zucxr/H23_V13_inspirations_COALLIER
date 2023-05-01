@@ -73,9 +73,76 @@ Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées d
 put pics here
 
 Liste des composantes
-* 9x Poteaux
-* Pont d'éclairage (cr34te)
+
+* 9x Poteaux (pont d'éclairage, 8x 1' x 1' x 8' (triangle)
+ et 1x 2' x 2' x 8' (carré) )
+![poteau](media/20230317_poteau_01.jpeg)
+
 * 9x speaker
+![speaker](media/20230317_speaker.jpeg)
+
+* 8x string festoon 15' (cr34te)
+![banderole](media/20230324_lumiere_string.jpeg)
+
+* 9x fausse plante
+![plante](media/20230317_feuille_decoration.jpeg)
+
+* 2x arduino
+![arduino](media/20230428_arduino.jpg)
+[Source de l'image](https://toptechboy.com/wp-content/uploads/2014/08/arduino.jpg)
+
+* LED ALITOVE DC 12V WS2811 12mm
+![poteau](media/20230428_led.jpg)
+[Source de l'image](https://www.pinterest.ca/pin/686517536930406430/)
+
+* Lumières adressables (x4)
+![lumiere_corde](media/20230317_lumiere_banderole.jpeg)
+
+* DMX Dot 5W (cr34te)
+![dmx_dot](media/20230428_dmx_dot_5w.jpg)
+[Source de l'image](https://colordreamer.com.tr/category-architectural-lighting-dmx-dot?dil=5)
+
+* 64x DMX DOT clean (cr34te)
+![dmx_clean](media/20230428_dmx_clean.jpg)
+[Source de l'image](https://american-illumination.com/led-fixtures/rgb-rgbw-color-changing-lighting/mini-dmx-dot/mini-dmx-dot-600x/)
+
+* 20-25x Boule Lumineuse 200mm (cr34te)
+![boule_200](media/20230317_lumiere_ferme.jpeg)
+
+* 1x Boule Lumineuse 36' (cr34te)
+![boule_36](media/20230428_boule_36p.jpg)
+[Source de l'image](http://www.abclocation.fr/decoration/luminaire/boules-lumineuses-a-suspendre/boule-lumineuse-a-suspendre-diam-100cm)
+
+* 4x Tubes Opal 0.5M (cr34te)
+![tubes_0.5](media/20230428_tube_0.5m.jpg)
+[Source de l'image](https://www.mwmaterialsworld.com/en/white-opal-acrylic-tube.html)
+
+* 2x Tubes Opal 1M (cr34te)
+![tubes_1](media/20230428_tube_1.jpg)
+[Source de l'image](https://audiophilestyle.com/classifieds/item/817-meicord-opal-ethernet-cable-1m/)
+
+* 8x COLORado 2 Solo (cr34te)
+![lumiere_projection](media/20230317_lumiere_projection.jpeg)
+
+* Mac mini
+![mac](media/20230428_mac.jpeg)
+[Source de l'image](https://www.walmart.com/ip/Mac-Mini-2011-Intel-core-i7-2-GHz-256GB-SSD-16GB-RAM-Mac-OS-High-Sierra-Refurbished/706556433)
+
+* Carte de son
+![carte_son](media/20230428_carte_son.jpg)
+[Source de l'image](https://taodangmusic.com/10746-thickbox_default/sound-card-focusrite-scarlett-2i2-gen-3-.jpg)
+
+* Amplificateurs
+![amp](media/20230428_amp.jpg)
+[Source de l'image](https://www.hippo-deals.com/pyle-home/120w-x-2-mini-stereo-power-amplifier-pta4-pid49291.html)
+
+* V-Show Artnet RDM DMX Controller
+![rdm_dmx_controller](media/20230428_rdm_dmx.jpg)
+[Source de l'image](https://www.aliexpress.com/item/32869823005.html)
+
+* Routeur
+![routeur](media/20230428_routeur.jpg)
+[Source de l'image](https://www.bhphotovideo.com/c/product/810050-REG/TP_Link_TL_WR841N_TL_WR841N_Wireless_Lite_N.html)
 * 8x string festoon 15' (cr34te)
 * 9x fausse plante
 * 2x arduino
