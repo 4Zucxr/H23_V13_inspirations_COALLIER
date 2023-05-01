@@ -213,6 +213,7 @@ Posture du visiteur ou gestes de l'interacteur
 Le visiteur pouvait avoir n'importe quelle posture qu'il voulait en autant qu'une partie de son corps fut détecté par un senseur.
 
 Vidéo:
+
 [![Expérience](media/20230322_vignette_youtube.png)](https://www.youtube.com/shorts/6Vedvg7-ClQ)
 
 
@@ -226,7 +227,7 @@ J'ai aussi aimé la disposition des poteaux, faisant en sorte qu'ils ne sont pas
 Je n'ai pas aimé l'emplacement de l'oeuvre, car elle a été placé à un endroit très fréquenté, faisant en sorte qu'on ne pouvait pas expérimenter l'oeuvre dans son entièreté puisqu'une partie était toujours enclenchée par une personne qui bougeait.
 
 ## Références		hyperliens vers les sites consultés
-[https://github.com/F-C-A/EDRIA](https://github.com/F-C-A/EDRIA)
+[EDRIA](https://github.com/F-C-A/EDRIA)
 
 
 
