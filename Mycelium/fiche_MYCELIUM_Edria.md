@@ -174,18 +174,37 @@ Liste des composantes
 [Source de l'image](https://www.bhphotovideo.com/c/product/810050-REG/TP_Link_TL_WR841N_TL_WR841N_Wireless_Lite_N.html)
 
 
-
-Techniques
+Techniques:
+Les bases des poteaux peuvent facilement se dé-viser pour faciliter le transport. La majorité des éléments sont attacher avec des zip-ties ou avec des attache dévisable.
 
 
 ## Éléments nécessaires à la mise en exposition
-Piliers 
 
-![pillier]
+Bancs
 
-Cache-fils
+![bancs](media/20230428_banc.png)
 
-![cache_fils_2](médias/20230203_composante_cables.png)
+[Source de l'image](https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction#mat%C3%A9riel-de-sc%C3%A9nographie-requis)
+
+Couvre-fils (dos d'âne)
+
+![cache_fils_2](media/20230317_dos_ane.jpeg)
+
+Ralonges Électriques/Protège Cables
+
+![ralonge](media/20230317_protege_cable.jpeg)
+
+Cabanon de sécurité
+
+![cabanon](media/20230317_boitier.jpeg)
+
+Cadena, Attaches et Zip-ties
+
+![cadena](media/20230317_cadena.jpeg)
+
+Caméra de sécurité
+
+![caméra_sec](media/20230317_camera_securite.jpeg)
 
 
 ## Expérience vécue
