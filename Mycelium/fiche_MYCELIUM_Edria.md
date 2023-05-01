@@ -212,7 +212,7 @@ Posture du visiteur ou gestes de l'interacteur
 
 Le visiteur pouvait avoir n'importe quelle posture qu'il voulait en autant qu'une partie de son corps fut détecté par un senseur.
 
-
+Vidéo:
 [![Expérience](media/20230322_vignette_youtube.png)](https://www.youtube.com/shorts/6Vedvg7-ClQ)
 
 
