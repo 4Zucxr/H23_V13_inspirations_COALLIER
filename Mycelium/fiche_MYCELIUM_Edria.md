@@ -45,11 +45,14 @@ Intéractive
 
 Vidéo:
 
-[![Vue parlante](media/20230322_vignette_youtube.png)](https://www.youtube.com/shorts/6Vedvg7-ClQ)
+[![vue_parlante_type](media/20230322_vignette_youtube.png)](https://www.youtube.com/shorts/6Vedvg7-ClQ)
 
 
 ## Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
+Scénographique. Son but est de nous émerveiller avec la natures, avec l'aide de l'électronique
 Vue parlante - vidéo ou photo qui nous permet de bien comprendre la fonction du dispositif multimédia
+[![vue_parlante_fonction](media/20230322_vignette_youtube.png)](https://www.youtube.com/shorts/5gl5WA0eZxY)
+
 
 ## Mise en espace	
 Vue d'ensemble de la pièce 
@@ -228,6 +231,16 @@ Je n'ai pas aimé l'emplacement de l'oeuvre, car elle a été placé à un endro
 
 ## Références		hyperliens vers les sites consultés
 [EDRIA](https://github.com/F-C-A/EDRIA)
-
-
-
+[Fiche Projet Montmorency](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
+[Arduino](https://toptechboy.com/wp-content/uploads/2014/08/arduino.jpg)
+[DMX DOT 5w](https://colordreamer.com.tr/category-architectural-lighting-dmx-dot?dil=5)
+[DMX DOT clean](https://american-illumination.com/led-fixtures/rgb-rgbw-color-changing-lighting/mini-dmx-dot/mini-dmx-dot-600x/)
+[Boule 36p](http://www.abclocation.fr/decoration/luminaire/boules-lumineuses-a-suspendre/boule-lumineuse-a-suspendre-diam-100cm)
+[Tube 0.5m](https://www.mwmaterialsworld.com/en/white-opal-acrylic-tube.html)
+[Tube 1m](https://audiophilestyle.com/classifieds/item/817-meicord-opal-ethernet-cable-1m/)
+[Mac](https://www.walmart.com/ip/Mac-Mini-2011-Intel-core-i7-2-GHz-256GB-SSD-16GB-RAM-Mac-OS-High-Sierra-Refurbished/706556433)
+[Carte de son](https://taodangmusic.com/10746-thickbox_default/sound-card-focusrite-scarlett-2i2-gen-3-.jpg)
+[Amp](https://www.hippo-deals.com/pyle-home/120w-x-2-mini-stereo-power-amplifier-pta4-pid49291.html)
+[Controlleur DMX](https://www.aliexpress.com/item/32869823005.html)
+[Routeur](https://www.bhphotovideo.com/c/product/810050-REG/TP_Link_TL_WR841N_TL_WR841N_Wireless_Lite_N.html)
+[Bancs](https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction#mat%C3%A9riel-de-sc%C3%A9nographie-requis)
