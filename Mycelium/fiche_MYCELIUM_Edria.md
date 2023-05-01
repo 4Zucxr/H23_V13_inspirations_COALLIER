@@ -57,8 +57,11 @@ Vue d'ensemble de la pièce
 [Source de la photo](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
 Dimensions 
+
 ![dimension_poteau](media/20230317_distance_poteau.jpeg)
 ![dimension_espace](media/20230317_mesure_poteau.jpeg)
+![croquis_poteau](media/20230317_croquis_distance.jpg)
+![croquis_espace](media/20230317_croquis_vue_oiseau.jpg)
 
 ![salle](
 Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?
