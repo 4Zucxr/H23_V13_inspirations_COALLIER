@@ -1,42 +1,37 @@
-# Mycélium
+# Humain
 
-![affiche exposition](media/20230224_Mycélium.PNG)
+![affiche exposition](media/20230412_affiche.jpg)
+
+[Source de l'affiche](https://lienmultimedia.com/spip.php?article50730)
 
 ## Lieu de mise en exposition
-Collège Montmorency
+Centre des sciences de Montréal
 
-![lieu exposition](media/20230310_college.png)
+![lieu exposition](media/20230412_lieu_exposition.jpg)
+Source: Mégane Ranger, 2023
 
 ## Type d'exposition 
-Temporaire et extérieur
+Permanente et intérieur
 
 ## Date de votre visite		
-24 Février 2023 - 24 Mars 2023
+12 Avril 2023
 
 ## Titre de l'oeuvre
-Edria
+La Grosse Tête/Got A Big Head?
 
-<img src="media/20230317_oeuvre_complete.jpeg" alt="Oeuvre Complète" width="600">
-
+![vue_ensemble](media/20230412_lieu_exposition.jpg)
+Source: Mégane Ranger, 2023
 
 ## Noms des artistes
-* Elwin Durand
-* Loic Delorme
-* Dominic Roberts
-* Gabriel Leblanc
-* Meryem Berbiche
-* Jean-Christophe Zephir
-
+* Équipe multimédia du Centre des sciences de Montréal
 
 ## Année de réalisation
-2023
+~2015
 
 ## Description de l'oeuvre	
-Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : EDRIA. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser... 
+On croit souvent que l'intelligence humaine s'explique par la taille du cerveau. La taille a bien sûr son importance. Mais d'autres animaux ont un cerveau plus gros que le nôtre, et pourtant, ils ne construisent pas de gratte-ciels ou de fusées. L'intelligence dépendrait-elle plutôt de la taille du cerveau par rapport à celle du corps?
 
-[Source de la description](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
-
-![semi-cartel](media/20230324_panneau_publicitaire.jpeg)
+![cartel](media/20230412_cartel.jpg)
 ![vue_diverse_01](media/20230322_vue_illumine_01.jpeg)
 ![vue_diverse_02](media/20230322_vue_illumine_02.jpeg)
 
@@ -232,17 +227,5 @@ J'ai aussi aimé la disposition des poteaux, faisant en sorte qu'ils ne sont pas
 Je n'ai pas aimé l'emplacement de l'oeuvre, car elle a été placé à un endroit très fréquenté, faisant en sorte qu'on ne pouvait pas expérimenter l'oeuvre dans son entièreté puisqu'une partie était toujours enclenchée par une personne qui bougeait. J'aurais choisi un endroit moins acchalandé, comme le parc en arrière du Collège Montmorency.
 
 ## Références		hyperliens vers les sites consultés
-[EDRIA](https://github.com/F-C-A/EDRIA)
-[Fiche Projet Montmorency](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
-[Arduino](https://toptechboy.com/wp-content/uploads/2014/08/arduino.jpg)
-[DMX DOT 5w](https://colordreamer.com.tr/category-architectural-lighting-dmx-dot?dil=5)
-[DMX DOT clean](https://american-illumination.com/led-fixtures/rgb-rgbw-color-changing-lighting/mini-dmx-dot/mini-dmx-dot-600x/)
-[Boule 36p](http://www.abclocation.fr/decoration/luminaire/boules-lumineuses-a-suspendre/boule-lumineuse-a-suspendre-diam-100cm)
-[Tube 0.5m](https://www.mwmaterialsworld.com/en/white-opal-acrylic-tube.html)
-[Tube 1m](https://audiophilestyle.com/classifieds/item/817-meicord-opal-ethernet-cable-1m/)
-[Mac](https://www.walmart.com/ip/Mac-Mini-2011-Intel-core-i7-2-GHz-256GB-SSD-16GB-RAM-Mac-OS-High-Sierra-Refurbished/706556433)
-[Carte de son](https://taodangmusic.com/10746-thickbox_default/sound-card-focusrite-scarlett-2i2-gen-3-.jpg)
-[Amp](https://www.hippo-deals.com/pyle-home/120w-x-2-mini-stereo-power-amplifier-pta4-pid49291.html)
-[Controlleur DMX](https://www.aliexpress.com/item/32869823005.html)
-[Routeur](https://www.bhphotovideo.com/c/product/810050-REG/TP_Link_TL_WR841N_TL_WR841N_Wireless_Lite_N.html)
-[Bancs](https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction#mat%C3%A9riel-de-sc%C3%A9nographie-requis)
+[Centre Des Sciences de Montréal](https://www.centredessciencesdemontreal.com/exposition-permanente/humain)
+
