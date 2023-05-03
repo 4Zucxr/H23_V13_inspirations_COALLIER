@@ -41,7 +41,8 @@ Source: Cartel
 ## Type d'installation
 Intéractive
 
-Vidéo:
+![vue_parlante_01](media/20230412_interactive_01.jpg)
+![vue_parlante_02](media/20230412_interactive_02.jpg)
 
 
 ## Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
