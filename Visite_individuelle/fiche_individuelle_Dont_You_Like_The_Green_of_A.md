@@ -53,7 +53,7 @@ Vue parlante - vidéo ou photo qui nous permet de bien comprendre la fonction du
 ## Mise en espace	
 Vue d'ensemble de la pièce 
 
-![vue_ensemble](media/20230302_vue_ensemble.png)
+![vue_ensemble](media/20230302_ensemble_piece.png)
 
 Croquis de la mise en espace (plan ou élévation + dimensions)
 Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?
