@@ -34,7 +34,6 @@ Source: Cartel
 ![cartel](media/20230412_cartel.jpg)
 
 
-
 ## Type d'installation
 Intéractive
 
@@ -66,38 +65,42 @@ Dimensions
 ![dimension_longueur](media/20230412_dimension_longueur.jpg)
 ![croquis](media/20230412)
 ![croquis](media/20230412)
+**do two croquis
 
+
+**do this text
 
 Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?
 
 ## Composantes et techniques	
 Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	
 
-
+**put composantes
 
 
 
 Techniques:
+**put techniques
+
 Les bases des poteaux peuvent facilement se dé-viser pour faciliter le transport. La majorité des éléments sont attacher avec des zip-ties ou avec des attache dévisable.
 
 
 ## Éléments nécessaires à la mise en exposition
-
+**need to find other elements
 Autocollant pour position des pieds
 
 ![autocollant](media/20230412_autocollant.jpg)
 
 
 ## Expérience vécue
-
+***need to finish text
 Le visiteur pouvait avoir n'importe quelle posture qu'il voulait en autant qu'une partie de son corps fut détecté par un senseur.
 
 ![posture](media/20230412_posture_experience.jpg)
 
 
 Vidéo:
-
-[![Expérience](media/20230322_vignette_youtube.png)](https://www.youtube.com/watch?v=hhjrECkabho)
+[![Expérience](media/20230322_vignette_youtube.png)](https://youtu.be/hhjrECkabho?t=30)
 
 ----------------------------------------------------------
 
