@@ -51,6 +51,7 @@ Son but est d'apprendre aux visiteur du musée quel animal à le plus gros cerve
 ![description_02](media/20230412_description_02.jpg)
 ![description_03](media/20230412_description_03.jpg)
 ![description_04](media/20230412_description_04.jpg)
+![pieces_complete](media/20230412_pieces.jpg)
 
 
 ## Mise en espace	
