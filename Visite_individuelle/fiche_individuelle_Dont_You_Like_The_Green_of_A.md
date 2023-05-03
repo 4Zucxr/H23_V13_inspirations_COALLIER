@@ -41,13 +41,10 @@ Dont't You Like the Green of A? (N'aimes-tu pas le vert du A?) est basée sur le
 
 ## Type d'installation
 Contemplative
-[![Vidéo vue parlante](http://img.vimeo.com/vi/767051865/0.jpg)](https://vimeo.com/767051865)
+
+[![Vidéo vue parlante](media/20230302_preview_video.PNG)](https://vimeo.com/767051865)
 
 
-## Fonction du dispositif multimédia
-(scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
-Vue parlante - vidéo ou photo qui nous permet de bien comprendre la fonction du dispositif multimédia
-?????
 
 ## Mise en espace	
 Vue d'ensemble de la pièce 
@@ -71,40 +68,47 @@ Liste des composantes
 * Métal
 * Bois
 
+![moniteur](media/20230302_vue_ensemble.png)
+
+![papier_peint](media/20230302_papier_peint.png)
+
+![nylon](media/20230302_nylon.png)
+
+![coton](media/20230302_coton.png)
+
+![metal&bois](media/20230302_metal_bois.png)
 
 Techniques
 
+L'oeuvre de Nelson est entièrement en vidéo, donc il n'a pas vraiment besoin de rien transporter autre que son habit et sa banderole. Les éléments qui sont nécessaire, comme le moniteur, peut être facilement fournit par le prochain musée où sa prochaine exposition se tiendra. 
 
 ## Éléments nécessaires à la mise en exposition
-Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)
 
-Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre ou le dispositif soit exposé (bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs...)
+* Lumière-projection
 
-Lumière-projection
-
-![pillier]
+![lumiere](media/20230302_lumiere.png)
 
 Bancs
 
-![cache_fils_2](médias/20230203_composante_cables.png)
+![bancs](media/20230302_banc.png)
 
 Haut-parleur
 
-![cache_fils_2](médias/20230203_composante_cables.png)
+![haut_parleur](media/20230302_haut_parleur.png)
 
 ## Expérience vécue
-Posture du visiteur ou gestes de l'interacteur (ajouter vidéo ici)
-
-Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment réagit l'oeuvre ou le dispositif (si interactivité)? Plus personnellement, description de l'expérience que l'oeuvre ou le dispositif vous a fait vivre.
-
-![posture]
-
-[Vidéo sur la posture]
+Posture du visiteur ou gestes de l'interacteur
 
 
+Le visiteur est attendu de se placer devant le moniteur et de le regarder. Des bancs sont à sa disposition, mais il n'est pas obligatoire de l'utiliser. Le visiteur n'a rien à faire et la vidéo joue en boucle au-cas ou qu'il ait manqué le début.
 
-## ❤️ Ce qui vous a plu, vous a donné des idées
-Ce qui m'a plu sont les différentes animations qui se passent dépendant d'oû on est placé plutot qu'en avoir seulement une qui se passe tout le temps.
+![posture](media/20230302_posture.jpg)
+[Source de l'image](https://www.pexels.com/photo/man-sitting-in-front-of-turned-on-screen-2736135/)
+
+
+
+## ❤️ Coup de coeur
+J'ai aimé l'absurdité de l'oeuvre. Elle peut être interpréter de millions de façon différentes, ou même juste être apprécié. Un autre point que j'ai apprécié est la simplicité de l'exposition: beaucoup d'artiste aime utiliser le plus d'espace possible, tandis que Nelson n'avait réellement besoin que d'une petite télévision.   
 
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
@@ -112,7 +116,7 @@ Ce qui m'a plu sont les différentes animations qui se passent dépendant d'oû 
 **
 
 ## Références		hyperliens vers les sites consultés
-[https://github.com/F-C-A/EDRIA](https://macm.org/expositions/nelson-henricks/)
-
+[Musée d'art contemporain de Montréal](https://macm.org/expositions/nelson-henricks/)
+[Vidéo de l'oeuvre](https://vimeo.com/767051865)
 
 
