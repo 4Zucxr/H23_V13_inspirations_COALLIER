@@ -69,14 +69,6 @@ Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espa
 ## Composantes et techniques	
 Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	
 
-Liste des composantes
-
-* 9x Poteaux (pont d'éclairage, 8x 1' x 1' x 8' (triangle)
- et 1x 2' x 2' x 8' (carré) )
- 
-![poteau](media/20230317_poteau_01.jpeg)
-
-* 9x speaker
 
 
 
@@ -89,7 +81,7 @@ Les bases des poteaux peuvent facilement se dé-viser pour faciliter le transpor
 
 Autocollant pour position des pieds
 
-![bancs](media/20230428_bancs.png)
+![autocollant](media/20230412_autocollant.jpg)
 
 
 ## Expérience vécue
@@ -101,7 +93,7 @@ Le visiteur pouvait avoir n'importe quelle posture qu'il voulait en autant qu'un
 
 Vidéo:
 
-[![Expérience](media/20230322_vignette_youtube.png)](https://www.youtube.com/shorts/6Vedvg7-ClQ)
+[![Expérience](media/20230322_vignette_youtube.png)](https://www.youtube.com/watch?v=hhjrECkabho)
 
 ----------------------------------------------------------
 
