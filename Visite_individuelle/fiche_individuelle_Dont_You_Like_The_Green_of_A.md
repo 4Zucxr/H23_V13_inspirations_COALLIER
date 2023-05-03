@@ -22,7 +22,7 @@ Don't You Like the Green of A?
 Vue d'ensemble de l'oeuvre
 
 ![oeuvre_complete](media/20230302_vue_ensemble.png)
-![oeuvre_complete_2]
+
 
 ## Nom de l'artiste
 * Nelson Henricks
@@ -34,8 +34,6 @@ Vue d'ensemble de l'oeuvre
 Dont't You Like the Green of A? (N'aimes-tu pas le vert du A?) est basée sur les correspondances entre lettres et couleurs propres à la synthèsesie de Joan Mitchell, une condition que Henricks partage avec l'artiste. La synesthésie est une condition neurologique qui survient lorsque la perception par un sens déclenche automatiquement une perception dans l'un des autres sens. La connexion entre les différentes sens peut se manifester de multiples façons. Par exemple, dans la synesthésie graphème-couleur, des chiffres ou des lettres sont associés à des couleurs, tandis que les synestètes musique-couleur perçoivent de la couleur en entendant un son ou de la musique.
 
 
-cartel + diverses vues. 
-À composer ou reprendre la description offerte sur le site de l'artiste ou sur le cartel en indiquant bien sa source
 
 ![cartel](media/20230302_cartel.png)
 
@@ -43,7 +41,8 @@ cartel + diverses vues.
 
 ## Type d'installation
 Contemplative
-[Vidéo vue parlante](https://vimeo.com/767051865)
+[![Vidéo vue parlante](http://img.vimeo.com/vi/767051865/0.jpg)](https://vimeo.com/767051865)
+
 
 ## Fonction du dispositif multimédia
 (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
