@@ -19,9 +19,12 @@ Temporaire (17 novembre 2022 - 10 avril 2023) et intérieur.
 ## Titre de l'oeuvre
 Don't You Like the Green of A?
 
-Vue d'ensemble de l'oeuvre
 
 ![oeuvre_complete](media/20230302_vue_ensemble.png)
+
+![vue_diverse_01](media/20230302_mur_arriere.png)
+
+![vue_diverse_02](media/20230302_vue_entree.png)
 
 
 ## Nom de l'artiste
