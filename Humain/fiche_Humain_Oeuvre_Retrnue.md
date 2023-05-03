@@ -32,10 +32,7 @@ On croit souvent que l'intelligence humaine s'explique par la taille du cerveau.
 Source: Cartel
 
 ![cartel](media/20230412_cartel.jpg)
-![description_01](media/20230412_description_01.jpg)
-![description_02](media/20230412_description_02.jpg)
-![description_03](media/20230412_description_03.jpg)
-![description_04](media/20230412_description_04.jpg)
+
 
 
 ## Type d'installation
@@ -43,15 +40,17 @@ Intéractive
 
 ![vue_parlante_01](media/20230412_interactive_01.jpg)
 ![vue_parlante_02](media/20230412_interactive_02.jpg)
+![piece](media/20230412_piece.jpg)
 
 
 ## Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
-Pédagogique. 
-Son but est d'apprendre aux visiteur du musée quel animal à le plus gros cerveau.
+Support Pédagogique. 
+Son but est d'apprendre aux visiteur du musée quel animal à le plus gros cerveau tout en les laissant "jouer".
 
-Vidéo:
-
-[![vue_parlante_fonction](media/20230322_vignette_youtube.png)](https://www.youtube.com/shorts/5gl5WA0eZxY)
+![description_01](media/20230412_description_01.jpg)
+![description_02](media/20230412_description_02.jpg)
+![description_03](media/20230412_description_03.jpg)
+![description_04](media/20230412_description_04.jpg)
 
 
 ## Mise en espace	
