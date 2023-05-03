@@ -19,7 +19,6 @@ Permanente et intérieur
 ## La Grosse Tête/Got A Big Head?
 
 ![vue_ensemble](media/20230412_ensemble_oeuvre.jpg)
-Source: Mégane Ranger, 2023
 
 ## Noms des artistes
 * Équipe multimédia du Centre des sciences de Montréal
@@ -33,6 +32,10 @@ On croit souvent que l'intelligence humaine s'explique par la taille du cerveau.
 Source: Cartel
 
 ![cartel](media/20230412_cartel.jpg)
+![description_01](media/20230412_description_01.jpg)
+![description_02](media/20230412_description_02.jpg)
+![description_03](media/20230412_description_03.jpg)
+![description_04](media/20230412_description_04.jpg)
 
 
 ## Type d'installation
