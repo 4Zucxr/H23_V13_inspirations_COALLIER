@@ -22,10 +22,6 @@ Don't You Like the Green of A?
 
 ![oeuvre_complete](media/20230302_vue_ensemble.png)
 
-![vue_diverse_01](media/20230302_mur_arriere.png)
-
-![vue_diverse_02](media/20230302_vue_entree.png)
-
 
 ## Nom de l'artiste
 * Nelson Henricks
@@ -40,6 +36,10 @@ Dont't You Like the Green of A? (N'aimes-tu pas le vert du A?) est basée sur le
 
 ![cartel](media/20230302_cartel.png)
 
+![vue_diverse_01](media/20230302_mur_arriere.png)
+
+![vue_diverse_02](media/20230302_vue_entree.png)
+
 
 
 ## Type d'installation
@@ -53,15 +53,12 @@ Contemplative
 Vue d'ensemble de la pièce 
 
 ![vue_ensemble](media/20230302_ensemble_piece.png)
+![dimension](media/20230302_croquis_dimension.png)
 
-Croquis de la mise en espace (plan ou élévation + dimensions)
-Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?
+L'oeuvre est installé dans la première pièce, à gauche de l'entrée principale. Elle occupe un peu de tout les murs dans le couloir où elle disposée, mais la pièce principale (le moniteur) se situe sur le mur à droite du fond de la pièce. Elle occupe surtout les murs, mais il y a quelque morceau, comme les habits de Nelson, qui sont placé dans le milieu de la salle. Sinon, la salle est plutôt vide.
 
 
 ## Composantes et techniques	
-Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	
-
-put pics here
 
 Liste des composantes
 * Moniteur
@@ -116,7 +113,7 @@ J'ai aimé l'absurdité de l'oeuvre. Elle peut être interpréter de millions de
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-**
+Je trouve que la décoration des murs n'est pas égal: un contient le moniteur un beau papier peint qui couvre l'entièreté du mur et le mur opposé ne contient que des petits tableau de couleurs solides sur un mur blanc. Personnellement, j'aurais mit le papier peint sur tous les murs de la salle.
 
 ## Références		hyperliens vers les sites consultés
 [Musée d'art contemporain de Montréal](https://macm.org/expositions/nelson-henricks/)
