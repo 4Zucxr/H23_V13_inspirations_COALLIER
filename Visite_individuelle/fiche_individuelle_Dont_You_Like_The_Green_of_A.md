@@ -50,9 +50,12 @@ Contemplative
 
 
 ## Mise en espace	
-Vue d'ensemble de la pièce 
+Vue d'ensemble de la pièce :
 
 ![vue_ensemble](media/20230302_ensemble_piece.png)
+
+
+Dimension :
 ![dimension](media/20230302_croquis_dimension.png)
 
 L'oeuvre est installé dans la première pièce, à gauche de l'entrée principale. Elle occupe un peu de tout les murs dans le couloir où elle disposée, mais la pièce principale (le moniteur) se situe sur le mur à droite du fond de la pièce. Elle occupe surtout les murs, mais il y a quelque morceau, comme les habits de Nelson, qui sont placé dans le milieu de la salle. Sinon, la salle est plutôt vide.
@@ -68,6 +71,7 @@ Liste des composantes
 * Métal
 * Bois
 
+
 ![moniteur](media/20230302_vue_ensemble.png)
 
 ![papier_peint](media/20230302_papier_peint.png)
@@ -78,7 +82,7 @@ Liste des composantes
 
 ![metal&bois](media/20230302_metal_bois.png)
 
-Techniques
+Techniques :
 
 L'oeuvre de Nelson est entièrement en vidéo, donc il n'a pas vraiment besoin de rien transporter autre que son habit et sa banderole. Les éléments qui sont nécessaire, comme le moniteur, peut être facilement fournit par le prochain musée où sa prochaine exposition se tiendra. 
 
@@ -88,11 +92,11 @@ L'oeuvre de Nelson est entièrement en vidéo, donc il n'a pas vraiment besoin d
 
 ![lumiere](media/20230302_lumiere.png)
 
-Bancs
+* Bancs
 
 ![bancs](media/20230302_banc.png)
 
-Haut-parleur
+* Haut-parleur
 
 ![haut_parleur](media/20230302_haut_parleur.png)
 
