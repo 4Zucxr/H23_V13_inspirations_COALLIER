@@ -58,6 +58,7 @@ Vue d'ensemble de la pièce :
 Dimension :
 ![dimension](media/20230302_croquis_dimension.png)
 
+
 L'oeuvre est installé dans la première pièce, à gauche de l'entrée principale. Elle occupe un peu de tout les murs dans le couloir où elle disposée, mais la pièce principale (le moniteur) se situe sur le mur à droite du fond de la pièce. Elle occupe surtout les murs, mais il y a quelque morceau, comme les habits de Nelson, qui sont placé dans le milieu de la salle. Sinon, la salle est plutôt vide.
 
 
@@ -101,8 +102,6 @@ L'oeuvre de Nelson est entièrement en vidéo, donc il n'a pas vraiment besoin d
 ![haut_parleur](media/20230302_haut_parleur.png)
 
 ## Expérience vécue
-Posture du visiteur ou gestes de l'interacteur
-
 
 Le visiteur est attendu de se placer devant le moniteur et de le regarder. Des bancs sont à sa disposition, mais il n'est pas obligatoire de l'utiliser. Le visiteur n'a rien à faire et la vidéo joue en boucle au-cas ou qu'il ait manqué le début.
 
@@ -121,6 +120,7 @@ Je trouve que la décoration des murs n'est pas égal: un contient le moniteur u
 
 ## Références		hyperliens vers les sites consultés
 [Musée d'art contemporain de Montréal](https://macm.org/expositions/nelson-henricks/)
+
 [Vidéo de l'oeuvre](https://vimeo.com/767051865)
 
 
