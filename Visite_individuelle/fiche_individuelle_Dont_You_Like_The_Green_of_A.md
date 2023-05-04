@@ -74,7 +74,7 @@ Liste des composantes
 
 ![nylon](media/20230302_nylon.png)
 
-![coton](media/20230302_coton.png)
+![coton](media/20230302_coton.jpg)
 
 ![metal&bois](media/20230302_metal_bois.png)
 
