@@ -70,26 +70,60 @@ Dimensions :
 L'oeuvre est placé dans le milieu de la pièce de l'exposition Humain. Ele est placé directement sur le plancher et occupe l'espace d'une petite table.
 
 ## Composantes et techniques	
-Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	
+Parties composantes de l'oeuvre
 
-**put composantes
+* Puces NFC (pour les plaques contenant les informations sur les animaux)
 
+![nfc](media/20230412_composante_nfc.jpg)
+
+[Source de l'image](https://www.alibaba.com/product-detail/small-size-ntag213-nfc-rfid-tag_60716307945.html)
+
+* Senseur NFC (pour détecter les puces NFC)
+
+![nfc_senseur](media/20230412_composante_nfc_senseur.jpg)
+
+[Source de l'image](https://www.ebay.com/p/25033762107?iid=353374133969)
+
+* LED (pour illuminer les réponses déja graver sur l'oeuvre)
+
+![led](media/20230412_composante_led.jpg)
+
+[Source de l'image](https://www.aliexpress.com/item/32910554366.html)
+
+* Plexiglass fumé (pour cacher les choix non-illuminé)
+
+![plexiglass](media/20230412_composante_plexiglass.jpg)
+
+[Source de l'image](https://plastiquesurmesure.com/plaque-plexiglass-sur-mesure-plexiglass-coule/1935-plaque-plexiglass-transparent-fume-marron-fonce-brillant-coule-5mm.html)
+
+* Arduino (pour stocker les informations des NFC)
+
+![arduino](media/20230412_composante_arduino.jpg)
+
+[Source de l'image](https://commons.wikimedia.org/wiki/File:Arduino-uno-perspective-transparent.png)
+
+* Bois
+
+![bois](media/20230412_composante_bois.jpg)
 
 
 Techniques:
 
-
+Les réponses sont pré-gravé sur des différentes couches de plexiglass, donc il n'avait pas besoin de lumières complexes pour illuminer les réponses.
 
 ## Éléments nécessaires à la mise en exposition
-**need to find other elements
 Autocollant pour position des pieds
 
 ![autocollant](media/20230412_autocollant.jpg)
 
+Lumière pour illuminer l'oeuvre
+
+![projecteur](media/20230412_projecteur_lumiere.jpg)
+
 
 ## Expérience vécue
-***need to finish text
-Le visiteur pouvait avoir n'importe quelle posture qu'il voulait en autant qu'une partie de son corps fut détecté par un senseur.
+
+La posture recommendé pour le visiteur est: debout, les pieds sur l'autocollant. L'autocollant indique la direction que le visiteur doit avoir pour pouvoir intéragir avec l'oeuvres et voir les réponses. Le visiteur est attendu de prendre des pièces hexagonale qui contiennent les informations de divers animaux, et d'ensuite les placer un à un sur un senseur, qui indiquera ensuite s'il s'agit du bon animal. Pour chaque animaux, une couche de plexiglass s'illuminera et indiquera des informations sur l'animal placé. 
 
 ![posture](media/20230412_posture_experience.jpg)
 
@@ -99,13 +133,13 @@ Vidéo:
 
 ----------------------------------------------------------
 
-## ❤️ Ce que j'ai aimé et m'a inspiré
+## ❤️ Coup de coeur
 Ce qui m'a plu sont les différentes animations qui se passent dépendant d'oû on est placé plutôt qu'en avoir seulement une qui se passe tout le temps.
 J'ai aussi aimé la disposition des poteaux, faisant en sorte qu'ils ne sont pas encombrant au élèves qui vont à la terrace. Ce qui m'a inspiré est comment elle fondait avec l'environnement: les gens qui étaient alentour ni portait peu d'attention et continuait à relaxer comme si rien n'était.
 
 
 
-## 🤔 Ce que je n'ai pas aimé et que je ne garderais pas
+## 🤔 Les parties mauvaises
 Je n'ai pas aimé l'emplacement de l'oeuvre, car elle a été placé à un endroit très fréquenté, faisant en sorte qu'on ne pouvait pas expérimenter l'oeuvre dans son entièreté puisqu'une partie était toujours enclenchée par une personne qui bougeait. J'aurais choisi un endroit moins acchalandé, comme le parc en arrière du Collège Montmorency.
 
 ## Références		hyperliens vers les sites consultés
