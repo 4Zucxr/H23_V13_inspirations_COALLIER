@@ -39,7 +39,7 @@ Crédit: Martin Soltan
 
 **Luma Sol (vidéo et photos)**; 
 
-[![Installation_Luma-sol_vid](http://img.youtube.com/vi/Ot-g9M8m8JM/0.jpg)](http://www.youtube.com/watch?v=Ot-g9M8m8JM)
+[![Installation_Luma-sol_vid](https://img.youtube.com/vi/Ot-g9M8m8JM/0.jpg)](http://www.youtube.com/watch?v=Ot-g9M8m8JM)
 
 ![Installation_Luma-sol_img1](media/20230224_dynamo.png)
 ![Installation_Luma-sol_img2](media/20230224_installation_luma-sol.png)
@@ -47,7 +47,7 @@ Crédit: Martin Soltan
 
 **Nexum (vidéo)**; 
 
-[![Installation_nexum](http://img.youtube.com/vi/pxkVXRrlY-Q/0.jpg)](http://www.youtube.com/watch?v=pxkVXRrlY-Q)
+[![Installation_nexum](https://img.youtube.com/vi/pxkVXRrlY-Q/0.jpg)](http://www.youtube.com/watch?v=pxkVXRrlY-Q)
 
 **Zodie-Gal**; 
 Pas d'installation en cours.
