@@ -1,0 +1,1 @@
+Ce dossier intitulé Conférence contient deux fichiers contenant des compte-rendus et appréciation de la présentation de Yanik Daunais, Directeur général et directeur chez Halo création (datant du 24 mars) et de la conférence de Karinne Charbonneau, cheffe des expositions et registraire chez Studio Antimodular (datant du 28 mars).
