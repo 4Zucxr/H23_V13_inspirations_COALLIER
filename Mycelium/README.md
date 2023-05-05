@@ -33,16 +33,12 @@ Zodie-Gal;
 **EDRIA (photos)**;  
 
 ![Installation_EDRIA1](media/20230224_installation.png)
-![Installation_EDRIA2](media/20230224_poteau_central.png)
 
 Crédit: Martin Soltan
 
-**Luma Sol (vidéo et photos)**; 
+**Luma Sol (vidéo)**; 
 
 [![Installation_Luma-sol_vid](https://img.youtube.com/vi/Ot-g9M8m8JM/0.jpg)](http://www.youtube.com/watch?v=Ot-g9M8m8JM)
-
-![Installation_Luma-sol_img1](media/20230224_dynamo.png)
-![Installation_Luma-sol_img2](media/20230224_installation_luma-sol.png)
 
 
 **Nexum (vidéo)**; 
