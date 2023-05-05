@@ -129,7 +129,7 @@ La posture recommendé pour le visiteur est: debout, les pieds sur l'autocollant
 
 
 Vidéo:
-[![Expérience](media/20230322_vignette_youtube.png)](https://youtu.be/hhjrECkabho?t=30)
+[![Expérience](https://img.youtube.com/vi/hhjrECkabho/0.jog)](https://youtu.be/hhjrECkabho?t=30)
 
 ----------------------------------------------------------
 
