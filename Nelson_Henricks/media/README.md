@@ -1,1 +1,1 @@
-24 Février 2023 - 24 Mars 2023
+Ce dossier comprends le photos que j'ai pris lors de ma visite individuelle au musée d'art contemporain de Montréal, soit le 2 mars 2023. Les photos focussent surtout sur l'oeuvre Don't You Like the Green of A? (2022), de sa mise en espace à ses composantes.
