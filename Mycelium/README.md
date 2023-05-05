@@ -30,7 +30,7 @@ Zodie-Gal;
 [![Installation_Échomarine](http://img.youtube.com/vi/J3RE-UOXL6w/0.jpg)](http://www.youtube.com/watch?v=J3RE-UOXL6w)
 
 
-**EDRIA (photos)**;  
+**EDRIA (photo)**;  
 
 ![Installation_EDRIA1](media/20230224_installation.png)
 
