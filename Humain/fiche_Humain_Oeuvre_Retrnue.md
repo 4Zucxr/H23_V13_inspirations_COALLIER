@@ -59,18 +59,15 @@ Vue d'ensemble de la pièce
 ![vue_ensemble_01](media/20230412_piece_complete_01.jpg)
 ![vue_ensemble_02](media/20230412_piece_complete_02.jpg)
 
-Dimensions 
+Dimensions :
 
 ![dimension_hauteur](media/20230412_dimension_hauteur.jpg)
 ![dimension_longueur](media/20230412_dimension_longueur.jpg)
-![croquis](media/20230412)
-![croquis](media/20230412)
-**do two croquis
+![croquis](media/20230302_croquis.jpg)
 
 
-**do this text
 
-Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?
+L'oeuvre est placé dans le milieu de la pièce de l'exposition Humain. Ele est placé directement sur le plancher et occupe l'espace d'une petite table.
 
 ## Composantes et techniques	
 Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	
@@ -80,9 +77,7 @@ Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées d
 
 
 Techniques:
-**put techniques
 
-Les bases des poteaux peuvent facilement se dé-viser pour faciliter le transport. La majorité des éléments sont attacher avec des zip-ties ou avec des attache dévisable.
 
 
 ## Éléments nécessaires à la mise en exposition
