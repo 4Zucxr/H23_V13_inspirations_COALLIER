@@ -129,18 +129,16 @@ La posture recommendé pour le visiteur est: debout, les pieds sur l'autocollant
 
 
 Vidéo:
+
 [![Expérience](https://img.youtube.com/vi/hhjrECkabho/0.jpg)](https://youtu.be/hhjrECkabho?t=30)
 
-----------------------------------------------------------
 
 ## ❤️ Coup de coeur
-Ce qui m'a plu sont les différentes animations qui se passent dépendant d'oû on est placé plutôt qu'en avoir seulement une qui se passe tout le temps.
-J'ai aussi aimé la disposition des poteaux, faisant en sorte qu'ils ne sont pas encombrant au élèves qui vont à la terrace. Ce qui m'a inspiré est comment elle fondait avec l'environnement: les gens qui étaient alentour ni portait peu d'attention et continuait à relaxer comme si rien n'était.
-
+Ce qui m'a plu s'agit de l'universalité du projet. L'information qu'il traite s'agit de quelque chose dont tous le monde devrais savoir, mais personne le sait. Donc, il permet d'apprendre aux jeunes ET MÊME aux adultes. Un autre point qui m'a plus est la gravure des réponses dans le plexiglass. L'artiste aurait pu créer un système d'illumination hyper-compliqué, qui allume les diverse parties de l,oeuvre, mais il a plutôt gravé des plexiglass et passé une lumière à travers, sauvant beaucoup de temps à la création et l'entretien, car une lumière individuelle brisé est plus facile à réparé qu'une lumière dans un gros système de style "banderole"
 
 
 ## 🤔 Les parties mauvaises
-Je n'ai pas aimé l'emplacement de l'oeuvre, car elle a été placé à un endroit très fréquenté, faisant en sorte qu'on ne pouvait pas expérimenter l'oeuvre dans son entièreté puisqu'une partie était toujours enclenchée par une personne qui bougeait. J'aurais choisi un endroit moins acchalandé, comme le parc en arrière du Collège Montmorency.
+Je trouve que l'oeuvre est trop basse au sol, j'avais dû me plier le corps au complet pour intéragir avec. Personellement, je l'aurais élargis d'au moins 30 cm du sol et ajouter un escalier pour les plus petits qui veulent voir l'oeuvre.
 
 ## Références		hyperliens vers les sites consultés
 [Centre Des Sciences de Montréal](https://www.centredessciencesdemontreal.com/exposition-permanente/humain)
