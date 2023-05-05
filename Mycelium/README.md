@@ -114,10 +114,10 @@ Je vais ressentir de la curiosité. Je vais surement essayer de faire jouer tout
 Je vais ressentir de l'essouflement. Comme une grande majorité de personnes qui voit un vélo dans une oeuvre intéractive, je vais essayer de pédaler le plus vite possible pour voir si les lumières et la musique sera affecté.
 * Zodie-Gal
 
-///
+Je vais ressentir de la compassion. Le personnage dans Zodie-Gal passe à travers une crise d'identité, quelque chose de très grave, donc il est normal d'avoir pitié pour elle, même s'il s'agit juste d'un personnage d'un jeux vidéo.
 * Échomarine
 
-///
+Je vais me sentir relaxé par les bruits des animaux nautiques, mais aussi ressentir de la peine en me souvenant qu'ils sont en voie d'extinction.
 * Nexum
 
 Comme Luma-sol, je vais ressentir de l'essouflement. Je vais surement essayer de courrir le trajet le plus vite possible pour voir si les lumières et la musique sera affecté.
