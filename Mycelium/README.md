@@ -27,7 +27,7 @@ Zodie-Gal;
 
 **Échomarine (vidéo)**; 
 
-[![Installation_Échomarine](https://i9.ytimg.com/vi_webp/pxkVXRrlY-Q/mq2.webp?sqp=CLCQ0aAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgKyh_MA8=&rs=AOn4CLB2xKzolFNDtYy9JEgbctQ496_5tg)](http://www.youtube.com/watch?v=J3RE-UOXL6w)
+[![Installation_Échomarine](http://img.youtube.com/vi/J3RE-UOXL6w/0.jpg)](http://www.youtube.com/watch?v=J3RE-UOXL6w)
 
 
 **EDRIA (photos)**;  
@@ -39,7 +39,7 @@ Crédit: Martin Soltan
 
 **Luma Sol (vidéo et photos)**; 
 
-[![Installation_Luma-sol_vid](https://i9.ytimg.com/vi/Ot-g9M8m8JM/mq2.jpg?sqp=CLCQ0aAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBYKEswDw==&rs=AOn4CLC_FUFDGJ54E1R2e9AQOGT6vSrpKA)](http://www.youtube.com/watch?v=Ot-g9M8m8JM)
+[![Installation_Luma-sol_vid](http://img.youtube.com/vi/Ot-g9M8m8JM/0.jpg)](http://www.youtube.com/watch?v=Ot-g9M8m8JM)
 
 ![Installation_Luma-sol_img1](médias/20230224_dynamo.png)
 ![Installation_Luma-sol_img2](médias/20230224_installation_luma-sol.png)
@@ -47,7 +47,7 @@ Crédit: Martin Soltan
 
 **Nexum (vidéo)**; 
 
-[![Installation_nexum](https://i9.ytimg.com/vi_webp/J3RE-UOXL6w/mq2.webp?sqp=CLCQ0aAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gXShdMA8=&rs=AOn4CLD-cWn2qGcfbbhZ3spZLjqrtQHh_Q)](http://www.youtube.com/watch?v=pxkVXRrlY-Q)
+[![Installation_nexum](http://img.youtube.com/vi/pxkVXRrlY-Q/0.jpg)](http://www.youtube.com/watch?v=pxkVXRrlY-Q)
 
 **Zodie-Gal**; 
 Pas d'installation en cours.
